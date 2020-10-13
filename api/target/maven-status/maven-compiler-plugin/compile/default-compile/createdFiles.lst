@@ -1,0 +1,13 @@
+br/com/beertech/fusion/repository/OperationRepository.class
+br/com/beertech/fusion/util/SwaggerConfiguration.class
+br/com/beertech/fusion/controller/OperationController.class
+br/com/beertech/fusion/service/OperationService.class
+br/com/beertech/fusion/service/impl/OperationServiceImpl.class
+br/com/beertech/fusion/domain/OperationType.class
+br/com/beertech/fusion/controller/dto/OperacaoDto.class
+br/com/beertech/fusion/service/impl/SaldoServiceImpl.class
+br/com/beertech/fusion/domain/Operacao.class
+br/com/beertech/fusion/ServletInitializer.class
+br/com/beertech/fusion/service/SaldoService.class
+br/com/beertech/fusion/FusionApplication.class
+br/com/beertech/fusion/domain/Saldo.class

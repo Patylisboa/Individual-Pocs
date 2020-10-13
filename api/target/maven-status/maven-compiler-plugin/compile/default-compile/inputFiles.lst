@@ -1,0 +1,13 @@
+/Users/patricia/Desktop/hackathon/BEERTECH_FUSION/api/src/main/java/br/com/beertech/fusion/domain/Saldo.java
+/Users/patricia/Desktop/hackathon/BEERTECH_FUSION/api/src/main/java/br/com/beertech/fusion/ServletInitializer.java
+/Users/patricia/Desktop/hackathon/BEERTECH_FUSION/api/src/main/java/br/com/beertech/fusion/controller/OperationController.java
+/Users/patricia/Desktop/hackathon/BEERTECH_FUSION/api/src/main/java/br/com/beertech/fusion/repository/OperationRepository.java
+/Users/patricia/Desktop/hackathon/BEERTECH_FUSION/api/src/main/java/br/com/beertech/fusion/FusionApplication.java
+/Users/patricia/Desktop/hackathon/BEERTECH_FUSION/api/src/main/java/br/com/beertech/fusion/service/OperationService.java
+/Users/patricia/Desktop/hackathon/BEERTECH_FUSION/api/src/main/java/br/com/beertech/fusion/util/SwaggerConfiguration.java
+/Users/patricia/Desktop/hackathon/BEERTECH_FUSION/api/src/main/java/br/com/beertech/fusion/service/impl/OperationServiceImpl.java
+/Users/patricia/Desktop/hackathon/BEERTECH_FUSION/api/src/main/java/br/com/beertech/fusion/service/impl/SaldoServiceImpl.java
+/Users/patricia/Desktop/hackathon/BEERTECH_FUSION/api/src/main/java/br/com/beertech/fusion/service/SaldoService.java
+/Users/patricia/Desktop/hackathon/BEERTECH_FUSION/api/src/main/java/br/com/beertech/fusion/domain/OperationType.java
+/Users/patricia/Desktop/hackathon/BEERTECH_FUSION/api/src/main/java/br/com/beertech/fusion/domain/Operacao.java
+/Users/patricia/Desktop/hackathon/BEERTECH_FUSION/api/src/main/java/br/com/beertech/fusion/controller/dto/OperacaoDto.java

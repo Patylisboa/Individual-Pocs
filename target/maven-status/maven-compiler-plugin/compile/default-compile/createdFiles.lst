@@ -1,0 +1,16 @@
+br/com/beertech/fusion/service/impl/BeerServiceImpl.class
+br/com/beertech/fusion/util/SwaggerConfiguration.class
+br/com/beertech/fusion/fixture/BeerFixture.class
+br/com/beertech/fusion/repository/BeerRepository.class
+br/com/beertech/fusion/constantes/Constantes$Numbers.class
+br/com/beertech/fusion/constantes/Constantes$Products.class
+br/com/beertech/fusion/service/BeerService.class
+br/com/beertech/fusion/constantes/Constantes.class
+br/com/beertech/fusion/domain/builder/Builder.class
+br/com/beertech/fusion/constantes/Constantes$Prices.class
+br/com/beertech/fusion/domain/builder/BeerBuilder.class
+br/com/beertech/fusion/ServletInitializer.class
+br/com/beertech/fusion/LoadDatabase.class
+br/com/beertech/fusion/domain/Beer.class
+br/com/beertech/fusion/web/rest/BeerResource.class
+br/com/beertech/fusion/RestfullapidocormApplication.class

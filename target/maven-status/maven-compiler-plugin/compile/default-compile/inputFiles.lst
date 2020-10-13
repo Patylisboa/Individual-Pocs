@@ -1,0 +1,13 @@
+/Users/patricia/Desktop/hackathon/BEERTECH_FUSION/src/main/java/br/com/beertech/fusion/RestfullapidocormApplication.java
+/Users/patricia/Desktop/hackathon/BEERTECH_FUSION/src/main/java/br/com/beertech/fusion/web/rest/BeerResource.java
+/Users/patricia/Desktop/hackathon/BEERTECH_FUSION/src/main/java/br/com/beertech/fusion/domain/Beer.java
+/Users/patricia/Desktop/hackathon/BEERTECH_FUSION/src/main/java/br/com/beertech/fusion/fixture/BeerFixture.java
+/Users/patricia/Desktop/hackathon/BEERTECH_FUSION/src/main/java/br/com/beertech/fusion/LoadDatabase.java
+/Users/patricia/Desktop/hackathon/BEERTECH_FUSION/src/main/java/br/com/beertech/fusion/constantes/Constantes.java
+/Users/patricia/Desktop/hackathon/BEERTECH_FUSION/src/main/java/br/com/beertech/fusion/service/impl/BeerServiceImpl.java
+/Users/patricia/Desktop/hackathon/BEERTECH_FUSION/src/main/java/br/com/beertech/fusion/util/SwaggerConfiguration.java
+/Users/patricia/Desktop/hackathon/BEERTECH_FUSION/src/main/java/br/com/beertech/fusion/ServletInitializer.java
+/Users/patricia/Desktop/hackathon/BEERTECH_FUSION/src/main/java/br/com/beertech/fusion/service/BeerService.java
+/Users/patricia/Desktop/hackathon/BEERTECH_FUSION/src/main/java/br/com/beertech/fusion/domain/builder/BeerBuilder.java
+/Users/patricia/Desktop/hackathon/BEERTECH_FUSION/src/main/java/br/com/beertech/fusion/repository/BeerRepository.java
+/Users/patricia/Desktop/hackathon/BEERTECH_FUSION/src/main/java/br/com/beertech/fusion/domain/builder/Builder.java
